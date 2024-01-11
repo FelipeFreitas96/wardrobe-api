@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/wardrobe-api.props" />
+</Project>
